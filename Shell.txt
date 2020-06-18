@@ -1,0 +1,29 @@
+Shell
+	운영체제와 사용자가 소통하는 방법
+	- 그래픽 셸
+	- 명령줄 셸
+
+Shell 사용법
+
+Shell 명령어
+- pwd: 현재 폴더 경로 출력
+	= Print Working Drectory
+	
+- ls: 현재 폴더 내용물 출력
+	= List Segments
+
+- cd <폴더명>: 다른 폴더로 이동
+	= Change Directory
+- cd .. : 상위 폴더로 이동
+
+- cp: 파일을 다른 이름으로 복사
+	= Copy
+	= cp '복사 할 파일명' '붙여넣을 이름'
+	= ex: cp .\test.py .\test2.py
+
+- rm: 파일을 삭제
+	= Remove
+	= 바로 지워짐/ 휴지통X
+	
+파일이름 자동완성
+- 파일 이름을 입력할때는 앞 1~2글자만 입력하고 tab키를 누르면 자동 완성되는 기능

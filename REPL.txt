@@ -1,0 +1,11 @@
+Read - Eval - Print Loop
+Read: (코드를) 읽어서
+Eval: (읽은 코드를) 실행하고
+Print: (실행한 결과를) 출력하는
+Loop: 루프 (반복)
+
+
+REPL
+- Powershell에서 파일 이름 없이 python이라고만 입력하면 나오는 창
+- 파이썬 코드를 한 줄씩 입력해 가면서 테스트 해 볼 수 있는 입력창
+- REPL창을 종료하려면 exit()라고 입력
